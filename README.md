@@ -7,8 +7,11 @@ Resulting code enables the following coasters :
 
 # How to
 Just like the original projet : 
-1. install the PIF library
-2. run with the file path or url of the image you want (png)
+1. Get Python 3
+2. Get the blank tamplate file SCAD
+3. install the PIF library
+4. run with the file path or url of the image you want (png)
   * python3 .\images\R&M.png
 or
   * python3 https://domain.eu/myimage.png
+Insert the resulting array in the original SCAD file (available here)[https://www.thingiverse.com/thing:139754] and render !
