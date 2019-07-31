@@ -9,9 +9,6 @@ Resulting code enables the following coasters :
 Just like the original projet : 
 1. install the PIF library
 2. run with the file path or url of the image you want (png)
-
-⋅⋅* python3 .\images\R&M.png
-
+  * python3 .\images\R&M.png
 or
-
-⋅⋅* python3 https://domain.eu/myimage.png
+  * python3 https://domain.eu/myimage.png
